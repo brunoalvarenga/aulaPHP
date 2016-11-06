@@ -8,7 +8,7 @@ A chave para o bom aprendizado e sempre a PRATICA, então pratique muito e não 
 ------------------------------------------------
 www.cursoemvideo.com/course/curso-php-iniciante/
 ------------------------------------------------
-Todas as aulas são gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
+Todas as grades aulas são gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
 
 Coloque a pasta descompactada AulaPHP no diretório referente ao Web Server escolhido. No caso do EasyPHP para Windows, a pasta é C:\Arquivos de Programas\EasyPHP\data\locaweb ou C:\Arquivos de Programas\EasyPHP\www (dependendo da versão.
 
